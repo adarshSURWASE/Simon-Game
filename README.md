@@ -1,3 +1,3 @@
 # Game name 
 
-Simon game
+Simon Game built with HTML/CSS/JavaScript
